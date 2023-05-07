@@ -1,0 +1,9 @@
+.footer {
+    padding: 32px;
+    display: flex;
+    font-family: "Jost";
+}
+
+.contact {
+    margin-left: 40px;
+}

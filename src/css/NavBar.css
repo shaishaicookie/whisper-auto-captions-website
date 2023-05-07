@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 0.5px solid#c0c0c0;
+  padding: 16px;
+}
+
+.navbar-contents {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-title {
+  text-align: left;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.275rem;
+}
+
+.navbar-download,
+.navbar-github {
+  margin-left: 2.25rem;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.125rem;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

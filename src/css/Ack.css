@@ -1,0 +1,27 @@
+.ack {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 100px;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-bottom: 32px;
+}
+
+.ack-title {
+  text-align: left;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.2em;
+  margin-bottom: 32px;
+}
+
+.ack-content {
+  text-align: left;
+  font-family: "Jost";
+  font-style: normal;
+  font-size: 18px;
+}
