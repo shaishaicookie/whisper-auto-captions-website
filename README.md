@@ -2,5 +2,5 @@
 
 
 ## Run Locally
-`npm install`
+`npm install` \\
 `npm start`
