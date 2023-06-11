@@ -18,14 +18,14 @@ export function Intro() {
             tool{" "}
           </div>
           <div className="intro-china-download">
-          Download from China, <a href="https://github.com/ggerganov" style={{ textDecoration: 'underline'}}>Click here</a>
+          Download from China, <a href="https://vu3mopq3x8.feishu.cn/docx/Go9IdrSkpochcoxpgHfcl7nhn2d" target="_blank" style={{ textDecoration: 'underline'}}>Click here</a>
           </div>
         </div>
 
         <div className="intro-download">
           <div className="intro-apple-download">
             <a
-              href="https://drive.google.com/file/d/1qBw0wP-wzct7fo4H8MLUtD0b7c1gttN1/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qaNZb7LKtxKjMkoMdEoE6xOks4n36fNR/view?usp=sharing"
               target="_blank"
             >
               Download for Apple Chip
@@ -33,7 +33,7 @@ export function Intro() {
           </div>
           <div className="intro-intel-download">
             <a
-              href="https://drive.google.com/file/d/11QKL13fQvZ46YWmOcM1hvIINXe7BvkU8/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Sshl-sc_QW1WnSBd8H3Dvm8nHedwyeiW/view?usp=sharing"
               target="_blank"
             >
               Download for Intel Chip
