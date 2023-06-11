@@ -45,6 +45,7 @@
 }
 
 .intro-download > div {
+  padding: 0px 16px;
   margin-right: 20px;
   display: flex;
   justify-content: center;
@@ -55,7 +56,6 @@
   font-weight: 600;
   color: black;
   font-size: 18px;
-  width: 240px;
   height: 54px;
   background: white;
   border-radius: 10px;
@@ -69,6 +69,13 @@
 /* .intro-app-icon {
   flex-basis: 25%;
 } */
+.intro-china-download {
+  font-family: "Jost";
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 20px;
+  text-align: left;
+}
 
 .intro-app-icon > img {
   max-width: 60%;
@@ -85,5 +92,23 @@
     margin-top: 40px;
     margin-bottom: -20px;
     align-items: center;
+  }
+
+  .intro-download > div {
+    padding: 4px 0px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+    height: 54px;
+    background: white;
+    border-radius: 10px;
+    
   }
 }
