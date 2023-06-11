@@ -17,12 +17,15 @@ export function Intro() {
             Say goodbye to manual transcription with our lightning-fast subtitle
             tool{" "}
           </div>
+          <div className="intro-china-download">
+          Download from China, <a href="https://github.com/ggerganov" style={{ textDecoration: 'underline'}}>Click here</a>
+          </div>
         </div>
 
         <div className="intro-download">
           <div className="intro-apple-download">
             <a
-              href="https://drive.google.com/file/d/1ES36hlBZdtrp5A-n4Nr1cgVmhawDfawP/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qBw0wP-wzct7fo4H8MLUtD0b7c1gttN1/view?usp=sharing"
               target="_blank"
             >
               Download for Apple Chip
@@ -30,13 +33,14 @@ export function Intro() {
           </div>
           <div className="intro-intel-download">
             <a
-              href="https://drive.google.com/file/d/1oFnupTAOdrzRGoqCKpB3hFdLrjA4H-9m/view?usp=sharing"
+              href="https://drive.google.com/file/d/11QKL13fQvZ46YWmOcM1hvIINXe7BvkU8/view?usp=sharing"
               target="_blank"
             >
               Download for Intel Chip
             </a>
           </div>
         </div>
+
       </div>
       <div className="intro-app-icon">
         <img src="../website-icon.png" />
