@@ -16,11 +16,11 @@ export function Feature() {
             <img className="feature-info-img" src="../feature-2.png"></img>
           </div>
           <div className="feature-info-item">
-            <div className="feature-info-detail">Support downloading .srt files for seamless editing in Adobe Premiere Pro, DaVinci Resolve & Sony Vegas.</div>
+            <div className="feature-info-detail">Send fcpxml directly to Final Cut Pro X</div>
             <img className="feature-info-img" src="../feature-3.png"></img>
           </div>
           <div className="feature-info-item">
-            <div className="feature-info-detail">Send fcpxml directly to Final Cut Pro X</div>
+            <div className="feature-info-detail">Support downloading .srt files for seamless editing in Adobe Premiere Pro, DaVinci Resolve & Sony Vegas</div>
             <img className="feature-info-img" src="../feature-4.png"></img>
           </div>
         </div>
